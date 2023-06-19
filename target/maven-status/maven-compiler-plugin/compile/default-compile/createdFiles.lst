@@ -1,0 +1,9 @@
+com\vinsguru\models\Type.class
+com\vinsguru\models\Type$1.class
+com\vinsguru\protobuf\DefaultValueDemo.class
+com\vinsguru\protobuf\MapDemo.class
+com\vinsguru\protobuf\PerformanceTest.class
+com\vinsguru\protobuf\CompositionDemo.class
+com\vinsguru\protobuf\OneOfDemo$1.class
+com\vinsguru\protobuf\PersonDemo.class
+com\vinsguru\protobuf\OneOfDemo.class
